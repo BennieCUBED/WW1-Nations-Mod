@@ -1,1 +1,55 @@
+[
 
+  {
+
+		"name": "French Republic",		"leaderName": "Paul Painlevé",
+
+		"adjective": ["French"],
+
+		"outerColor": [16, 75, 194],
+
+		"innerColor": [255, 255, 255],
+
+		"style": "French",
+
+		"startBias": ["Plains"],
+
+		"preferredVictoryType": "Domination",
+
+		"favoredReligion": "Christianity",
+
+	  
+
+		"startIntroPart1": "During WW1, after the death of Archduke Franz Ferdinand War breaks out between Austria-Hungary and Serbia, where than, because Russia is allied with serbia..",
+
+		"startIntroPart2": "And thats where you come in. Will you create a Civilisation that will stand the test of time?.",
+
+ 
+
+	    "introduction": "Welcome, Sir, I am Prime Minister Paul Painlevé",
+
+	    "declaringWar": "May God have mercy on your soul! For I will not...",
+
+     	"attacked": "War..? Your barbaric..!",
+
+		"afterPeace": "Good... Let us have peace..."
+
+",
+
+		"defeated": "Oh... The Kingdom has fallen.",
+
+     	"neutralHello": "Hello",
+
+    	"hateHello": "What do you want?",
+
+    	"tradeRequest": "Would you like a trade agreement with the Kingdom?",
+
+		
+
+		"uniqueName": "Royalty",
+
+		"uniques": ["[+1 Gold] from [Farm] tiles [in all cities]"],
+
+		"cities": ["Teruam","Whendale","Manstone","Paraine","Oftorn","Finchville","Cundin","Munchtun","Bularia","Dundrun","Itou","Andropo","Caliac","Lanaire"]
+
+  },
